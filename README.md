@@ -1,7 +1,4 @@
-# CSCI-B551 FA2021 Assignment 2 Games and Bayesian Classifiers
-
-### Group Members: Aashay Gondalia (aagond), Harsh Atha (hatha), Sai Hari Chandan Morapakala (saimorap)
-
+# Games and Bayesian Classifiers
 
 ## Part 1: Raichu
 
